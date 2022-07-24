@@ -1,5 +1,5 @@
 ## This is an older legacy project. 
-Go check out [youtube-json-server](https://github.com/ThatGuySam/youtube-json-server) for the newer/simpler/faster version. 
+Go check out [youtube-json-server](https://github.com/WarisLin/youtube-playlist-json) for the newer/simpler/faster version. 
 
 # Youtube Playlist JSON
 
